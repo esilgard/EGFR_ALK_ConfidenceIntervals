@@ -1,3 +1,5 @@
+# written by Aasthaa Bansal and Qin Sun 
+
 # internal validation datasets
 setwd("C:/Users/qsun/Desktop/NLP Study/InternalValidationOutput/InternalValidationOutput/ReportedOrNot")
 report <- TRUE
